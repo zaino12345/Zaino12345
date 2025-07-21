@@ -10,7 +10,7 @@
         "averageRating": 3,
         "featured": false,
         "isPopular": true,
-        "onHomepage": true
+        "onHomepage": false
     },
     {
         "id": "eggy-car",
@@ -23,7 +23,7 @@
         "averageRating": 3,
         "featured": false,
         "isPopular": true,
-        "onHomepage": true
+        "onHomepage": false
     },
     {
         "id": "endless-truck",
@@ -36,7 +36,7 @@
         "averageRating": 3,
         "featured": false,
         "isPopular": false,
-        "onHomepage": true
+        "onHomepage": false
     },
     {
         "id": "highway-rider-extreme",
@@ -49,7 +49,7 @@
         "averageRating": 3,
         "featured": false,
         "isPopular": false,
-        "onHomepage": true
+        "onHomepage": false
     },
     {
         "id": "car-simulator-crash-city",
@@ -62,7 +62,7 @@
         "averageRating": 3,
         "featured": false,
         "isPopular": true,
-        "onHomepage": true
+        "onHomepage": false
     },
     {
         "id": "racing-monster-truck",
@@ -73,7 +73,7 @@
         "url": "Racing-Monster-Truck.html",
         "game_url": "https://ubg98.github.io/RacingMonsterTrucks/",
         "averageRating": 3,
-        "featured": false,
+        "featured": true,
         "isPopular": false,
         "onHomepage": true
     },
@@ -86,7 +86,7 @@
         "url": "Car-Rush.html",
         "game_url": "https://ubg98.github.io/CarRush/",
         "averageRating": 3,
-        "featured": false,
+        "featured": true,
         "isPopular": true,
         "onHomepage": true
     },
@@ -152,7 +152,7 @@
         "game_url": "https://www.gamearter.com/game/boxzio/",
         "averageRating": 3,
         "featured": false,
-        "isPopular": false,
+        "isPopular": true,
         "onHomepage": true
     },
     {
@@ -177,7 +177,7 @@
         "url": "Park-It.html",
         "game_url": "https://html5.gamedistribution.com/rvvASMiM/d29ae646ec6047da893a74fc988f1727/index.html?gd_sdk_referrer_url=https%3A%2F%2Fgamaverse.com%2Fpark-it-game%2F&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2dhbWF2ZXJzZS5jb20vcGFyay1pdC1nYW1lLyIsInBhcmVudERvbWFpbiI6ImdhbWF2ZXJzZS5jb20iLCJ0b3BEb21haW4iOiJnYW1hdmVyc2UuY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1Lgdamedistribution.comIiwidmVyc2lvbiI6IjEuNS4xNyJ9",
         "averageRating": 3,
-        "featured": false,
+        "featured": true,
         "isPopular": false,
         "onHomepage": true
     },
@@ -255,8 +255,8 @@
         "url": "Real-Cars-In-City.html",
         "game_url": "https://htmlxm.github.io/h6/real-cars-in-city/",
         "averageRating": 3,
-        "featured": false,
-        "isPopular": false,
+        "featured": true,
+        "isPopular": true,
         "onHomepage": true
     },
     {
@@ -295,7 +295,7 @@
         "game_url": "https://htmlxm.github.io/h3/super-racing-gt-drag-pro/",
         "averageRating": 3,
         "featured": false,
-        "isPopular": false,
+        "isPopular":true,
         "onHomepage": true
     },
     {
@@ -450,7 +450,7 @@
         "url": "Grand-Prix-Hero.html",
         "game_url": "https://htmlxm.github.io/h4/grand-prix-hero/",
         "averageRating": 3,
-        "featured": false,
+        "featured": true,
         "isPopular": false,
         "onHomepage": true
     },
